@@ -55,3 +55,4 @@ pipenv.lock
 cython_debug/
 .vscode/
 venv/
+data/
