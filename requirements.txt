@@ -5,3 +5,7 @@ numpy
 scikit-learn
 streamlit
 redis
+matplotlib
+seaborn
+plotly
+nbformat
